@@ -10,7 +10,7 @@
 
 .left {
   left: 0;
-  background-color: #0f62fe;
+  background-color: #52c0ff;
 }
 
 .right {
@@ -33,10 +33,12 @@
 }
 
 .brief_description {
-  text-align: left;
+  text-align: center;
 }
 
 .profile_image {
   width: 500px;
   height: auto;
+
+  
 }
